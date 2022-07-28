@@ -1,1 +1,3 @@
-Baslangic dosyası
+Baslangic dosyası 
+
+degisiklik 1.0
